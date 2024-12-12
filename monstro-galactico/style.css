@@ -1,0 +1,11 @@
+body,
+html {
+  margin: 0px;
+  padding: 0px;
+  position: fixed;
+  background-image: url('background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
